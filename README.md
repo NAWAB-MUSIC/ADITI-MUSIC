@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗝𝗮𝗻𝗶 ❤️‍🔥 ✘ 𝗠𝘂𝘀𝗶𝗰 🥀 🦋⛦」──
+    ──「⛦🦋 𝗔𝗱𝗶𝘁𝗶 ❤️‍🔥 ✘ 𝗠𝘂𝘀𝗶𝗰 🥀 🦋⛦」──
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/yd51bx.jpg">
+  <img src="https://files.catbox.moe/e5c5dr.jpg">
 </p>
 
 <p align="center">
@@ -18,21 +18,21 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚🔥">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗡𝗔𝗪𝗤𝗕+𝗢𝗪𝗡𝗘𝗥🔥">
 
 <p align="center">
-  <img src="https://files.catbox.moe/yd51bx.jpg">
+  <img src="https://files.catbox.moe/e5c5dr.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ramavtarchauhan420/JANI_MUSIC_REPO"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ramavtarchauhan420/NAWAB_MUSIC_REPO"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹Jani ꭙ 𝐌ᴜꜱɪᴄ™ ](https://t.me/Jani_Music_Robot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ɴᴀᴡᴀʙ ꭙ 𝐌ᴜꜱɪᴄ™ ](https://t.me/nawabXDmusic_bot)**
 
 
 
@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TEAM-ISTKHAR/ISTKHAR_MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/NAWAB-MUSIC/ADITI-MUSIC)
 ---
 
 ### 🔧 Quick Setup
@@ -66,7 +66,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TEAM-ISTKHAR/ISTKHAR_MUSIC && cd ISTKHAR_MUSIC
+   git clone https://github.com/NAWAB-MUSIC/ADITI-MUSIC && cd NAWAB_MUSIC
    ```
 6. **Install Requirements**
    ```bash
@@ -105,4 +105,4 @@
 <a href="https://t.me/Jani_RP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR) ғᴏʀ [ɪsᴛᴋʜᴀʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Jani_RP)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ NAWAB](https://github.com/NAWAB-MUSIC) ғᴏʀ [ɴᴀᴡᴀʙ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/nawabXDmusic_bot)_</b>
